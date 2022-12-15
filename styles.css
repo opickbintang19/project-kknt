@@ -5,3 +5,8 @@
 .bg-gray-200{
     background-color: #e9ecef;
 }
+
+.justify-text{
+    margin: 0;
+    text-align: justify;
+}
