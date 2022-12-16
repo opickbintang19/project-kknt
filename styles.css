@@ -10,3 +10,7 @@
     margin: 0;
     text-align: justify;
 }
+
+.darken-img{
+    filter: brightness(70%)
+}
